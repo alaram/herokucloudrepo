@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.mycompany.ppmtool.PpmtoolApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.743 s - in io.mycompany.ppmtool.PpmtoolApplicationTests
